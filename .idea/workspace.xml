@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0938404-26a2-47e1-aa7b-8b6c9ff6d82c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/jax-ws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/jaxws-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/META-INF/jax-ws-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/META-INF/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/a2/clientwsgeoip/A2ClientWSGeoIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/a2/clientwsgeoip/IP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/xml-resources/web-service-references/geoipservice/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/jax-ws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/jaxws-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/META-INF/jax-ws-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/META-INF/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/a2/clientwsgeoip/A2ClientWSGeoIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/a2/clientwsgeoip/IP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/xml-resources/web-service-references/geoipservice/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/ant-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/rest-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/conf/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/conf/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/DiscountCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/MicroMarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/ProductCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/PurchaseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/AbstractFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/CustomerFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/DiscountCodeFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ManufacturerFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/MicroMarketFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ProductCodeFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ProductFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/PurchaseOrderFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/app.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/cc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/cg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/collapse.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/css_master-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/expand.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/background_border_bottom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/bg_gradient.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/level1_deselect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/level1_selected-1lvl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead_link_enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead_link_roll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbdis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbmou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbsel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/primary-enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/primary-roll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/secondary-enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/tbsel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/tbuns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/item.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/og.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/ionic.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-667h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/assets/icon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/assets/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/providers/auth/auth.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/theme/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1606444144">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SupermarketQueue_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SupermarketQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/SupermarketQueue_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SupermarketQueue.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="103" />
+    <option name="y" value="72" />
+    <option name="width" value="1090" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SupermarketQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketQueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SupermarketQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SupermarketQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SupermarketQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketQueue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SupermarketQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548970216463" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Exercise3" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SupermarketQueue_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SupermarketQueue" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SupermarketQueue_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SupermarketQueue_" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0938404-26a2-47e1-aa7b-8b6c9ff6d82c" name="Default Changelist" comment="" />
+      <created>1548969938621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548969938621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SupermarketQueue_ - 2019.01.31 at 21h 30m 11s.xml">
+      <configuration name="SupermarketQueue_" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SupermarketQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SupermarketQueue_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
